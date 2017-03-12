@@ -9,3 +9,5 @@ github_username:  ramblingjane
 
 # Build settings
 markdown: kramdown
+
+future: true
