@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-# What is this?
-
-This site is my attempt to foster a presence online.
+This site is my attempt to foster a presence online. I'm still trying to figure out what the focus might be. Please stay tuned.
