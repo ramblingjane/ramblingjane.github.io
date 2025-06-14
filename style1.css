@@ -4,3 +4,8 @@ footer {
   background-color: #d5b9eb;
   color: #000;
 }
+
+.mainContent {
+	padding-left: 50px;
+	padding-right: 50px;
+}
